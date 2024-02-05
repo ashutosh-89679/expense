@@ -1,0 +1,15 @@
+{
+    "bank_balance_saving": {
+      "account_type": "Savings",
+      "balance": 5000,
+      "currency": "USD",
+      "last_updated": "2024-02-05"
+    },
+    "bank_balance_budget": {
+      "account_type": "Budget",
+      "balance": 2500,
+      "currency": "USD",
+      "last_updated": "2024-02-05"
+    }
+  }
+  

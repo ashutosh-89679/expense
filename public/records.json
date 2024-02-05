@@ -1,0 +1,23 @@
+{
+    "records": [
+      {
+        "record_id": 1,
+        "amount": 100,
+        "type": "grocery",
+        "action": "increment"
+      },
+      {
+        "record_id": 2,
+        "amount": 50,
+        "type": "food",
+        "action": "decrement"
+      },
+      {
+        "record_id": 3,
+        "amount": 200,
+        "type": "entertainment",
+        "action": "increment"
+      }
+    ]
+  }
+  
